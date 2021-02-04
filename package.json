@@ -1,0 +1,15 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "should": "^13.2.3"
+  }
+}
